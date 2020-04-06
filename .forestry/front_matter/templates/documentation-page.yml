@@ -14,7 +14,3 @@ fields:
 - type: text
   name: slug
   label: slug
-pages:
-- docs/Deployment Service/mongodb.md
-- docs/Deployment Service/node-js.md
-- docs/getting-started.md
