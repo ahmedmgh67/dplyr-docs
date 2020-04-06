@@ -11,10 +11,6 @@ sections:
   match: "**/*"
   templates:
   - documentation-page
-- type: document
-  path: getting-started
-  label: Getting Started
-  match: "**/*"
 - type: heading
   label: Content
 - type: heading
