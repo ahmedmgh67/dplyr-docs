@@ -15,5 +15,6 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/Deployment Service/node-js.md
 - docs/getting-started.md
 - docs/node-js.md
