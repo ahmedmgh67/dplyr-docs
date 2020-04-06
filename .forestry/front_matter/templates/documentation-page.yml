@@ -16,4 +16,3 @@ fields:
   label: slug
 pages:
 - docs/editing-in-forestry.md
-- docs/this-is-node-js.md
