@@ -16,3 +16,4 @@ fields:
   label: slug
 pages:
 - docs/getting-started.md
+- docs/node-js.md
